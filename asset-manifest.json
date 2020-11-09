@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/people-generator/static/css/main.771536ac.chunk.css",
+    "main.js": "/people-generator/static/js/main.449bc754.chunk.js",
+    "main.js.map": "/people-generator/static/js/main.449bc754.chunk.js.map",
+    "runtime-main.js": "/people-generator/static/js/runtime-main.1508a7c6.js",
+    "runtime-main.js.map": "/people-generator/static/js/runtime-main.1508a7c6.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/people-generator/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c7a822e6.chunk.js": "/people-generator/static/js/2.c7a822e6.chunk.js",
+    "static/js/2.c7a822e6.chunk.js.map": "/people-generator/static/js/2.c7a822e6.chunk.js.map",
+    "index.html": "/people-generator/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/people-generator/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.771536ac.chunk.css.map": "/people-generator/static/css/main.771536ac.chunk.css.map",
+    "static/js/2.c7a822e6.chunk.js.LICENSE.txt": "/people-generator/static/js/2.c7a822e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1508a7c6.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c7a822e6.chunk.js",
+    "static/css/main.771536ac.chunk.css",
+    "static/js/main.449bc754.chunk.js"
+  ]
+}
