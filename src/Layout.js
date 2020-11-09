@@ -24,7 +24,11 @@ function Layout(props) {
       <div>Gender: {props.data.gender}</div>
       <div>Name: {props.data.name.first + ' ' + props.data.name.last}</div>
       <div>location: {props.data.location.city}</div>
-      <img className="layout__img" src={props.data.picture.large}></img>
+      <img
+        className="layout__img"
+        alt="peopleImg"
+        src={props.data.picture.large}
+      ></img>
     </div>
   );
 }
